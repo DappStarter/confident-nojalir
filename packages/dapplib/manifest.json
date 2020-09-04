@@ -1,0 +1,16 @@
+{
+    "name": "BIG NEWS!",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "BIGNEWS",
+        "/category/asset_value_tracking/token/symbol": "BNT",
+        "/category/asset_value_tracking/token/decimals": "8",
+        "/category/asset_value_tracking/token/supply": "1000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder"
+    }
+}
